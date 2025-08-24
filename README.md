@@ -11,12 +11,9 @@ Projekt w Pythonie generujący losowe hasła inspirowane filozofami i elementami
 - Zapisywanie haseł do pliku `passwords.txt`.
 
 ## Przykład użycia
-
-```bash
 python generator.py
 
 ## Przykładowe hasło:
-
 PlaTO@AthENs;42;stOICIsM
 
 ## Struktura projektu
@@ -26,11 +23,8 @@ math-philosophy-password-generator/
 └── README.md         # dokumentacja
 
 ## Wymagania
-
 Python 3.8+
-
 Brak dodatkowych bibliotek (używane tylko standardowe: random, math, os).
 
 ## Autor
-
 Projekt edukacyjny do nauki Pythona – generator silnych i kreatywnych haseł ✨
